@@ -16,4 +16,4 @@ To Achieve this, I will be doing the following:
 6. Creating and application of load balancer 
 etc
 
-Click on [MYLINK](MyHolidayChallenge-1064962133.us-east-1.elb.amazonaws.com) to see the result of my Assignment
+Click on [MY Link](https://MyHolidayChallenge-1064962133.us-east-1.elb.amazonaws.com) to see the result of my Assignment
