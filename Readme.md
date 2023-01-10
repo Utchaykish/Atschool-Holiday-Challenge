@@ -16,5 +16,6 @@ To Achieve this, I will be doing the following:
 6. Creating and application of load balancer 
 etc
 
-[Error Happened](http://[Visual Studio Code - Code Editing. Redefined](MyHolidayChallenge-1064962133.us-east-1.elb.amazonaws.com))
+[Click Me](http://[MyHolidayChallenge-1064962133.us-east-1.elb.amazonaws.com]) to see the result of my assignment
+
 
