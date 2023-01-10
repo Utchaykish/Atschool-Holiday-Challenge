@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://MyHolidayChallenge-1064962133.us-east-1.elb.amazonaws.com",
+            "request": "launch",
+            "url": "http://MyHolidayChallenge-1064962133.us-east-1.elb.amazonaws.com"
+        }
+    ]
+}
